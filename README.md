@@ -1,2 +1,1 @@
-HTML, CSS, Javascript
-PHP
+# nhuongquyen_practical
